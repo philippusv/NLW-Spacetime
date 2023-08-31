@@ -1,5 +1,5 @@
 <p align="center">
-  <img  src=".github/preview.png>" alt="Demonstração do projeto" width="100%" />
+  ![preview](https://github.com/philippusv/NLW-Spacetime/assets/112674476/87928845-c261-4897-b82b-61c1c8d71e57)
 </p>
 
 ## 🖥️ Projeto
